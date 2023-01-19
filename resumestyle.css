@@ -1,0 +1,92 @@
+img
+	{
+	   border-radius:50px;
+       border-color: black;
+       border: 3px solid black;
+       width:160px;
+       height:160px		
+    }
+
+#name
+{
+	font-size:50px;
+	background-color: F6E4B4;
+	border-width:3;
+	 padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 4px;
+
+	
+}
+
+
+#mydetails
+    {
+     font-size: 20px;
+    }     
+	
+#mydetails2
+	{
+	background-color: F6E4B4;
+	font-size:24px;
+	
+	}	
+	
+#mydetails3
+	{
+	 font-size:24px;
+	}	
+	
+#Programing_Skills
+	{
+	background-color: F6E4B4;
+	font-size: 24px;
+	
+	}
+#languagesh
+	{
+	background-color: F6E4B4;
+	font-size: 40px;
+	
+	
+	}
+	
+	
+#languagelist
+	{
+	font-size: 30px;
+	}
+#strengthshead
+{
+	background-color: F6E4B4;
+	font-size:40px;
+}
+#s2{background-color: F6E4B4;}
+#s3{background-color: F6E4B4;}
+#s4{background-color: F6E4B4;}
+#strengthslist
+{
+	font-size:30px;
+}
+#strengthslist2
+{
+background-color: F6E4B4;	
+}
+#l
+	{
+	
+     background-image:url('bac.jpg');
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 30px;
+     float: left;
+     width: 30%;
+	}
+
+
+#r
+	{
+	 padding-left: 20px;
+	 float: left;
+	 width: 60%;
+	}
